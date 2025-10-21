@@ -130,10 +130,10 @@ pour la visualisation interactive d’algorithmes de recherche de chemin optimal
 
 ## 📜 Certifications
 
-- 🧠 *Python for Computer Vision with OpenCV and Deep Learning* — Udemy (2024)
-- 🛡️ *Cybersécurité de Débutant à Expert* — Udemy (2024)
-- 🌐 *IT-Network* — 2017  
-- 💼 *Entrepreneuriat et Gestion des PME* — 2018  
+- 🧠 *Python for Computer Vision with OpenCV and Deep Learning* — Udemy (2025)
+- 🛡️ *Cybersécurité de Débutant à Expert* — Udemy (2024) 
+- 💼 *Entrepreneuriat et Gestion des PME* — 2018
+- 🌐 *IT-Network* — 2017 
 
 ---
 
