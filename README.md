@@ -89,7 +89,7 @@ structuré exportable, avec extraction des 40 champs officiels du certificat.
 **Impact :** Préservation du patrimoine documentaire 
 de la RDC et modernisation de l'administration de l'état civil 
 
-🔗 [Voir le projet (à venir)](#)
+🔗 [Voir le projet](https://github.com/wenrid/ocr-actes-naissance-rdc)
 
 ---
 
