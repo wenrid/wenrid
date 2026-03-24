@@ -66,7 +66,7 @@ dropout, augmentation de données et visualisation des activations.
 **Stack :** Python, PyTorch, OpenCV, Matplotlib, Scikit-learn  
 **Impact :** Modèle robuste et léger applicable aux systèmes embarqués de véhicules autonomes
 
-🔗 [Voir le projet (à venir)](#)
+🔗 [Voir le projet (à venir)](https://github.com/wenrid/GTSRB-CNN-Classification)
 
 ---
 
