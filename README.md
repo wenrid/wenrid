@@ -45,7 +45,7 @@ de Bahdanau.
 **Stack :** Python, PyTorch, ResNet-50, LSTM, Flickr8k  
 **Impact :** Démonstration que le transfer learning est indispensable avec datasets limités
 
-🔗 [Voir le projet (à venir)](#)
+🔗 [Voir le projet](https://github.com/wenrid/image-captioning-transfer-learning)
 
 ---
 
