@@ -27,6 +27,18 @@ Les agriculteurs reçoivent des diagnostics instantanés avec des recommandation
 
 ---
 
+### 🏥 Système de Suivi Médical Intelligent  
+Plateforme complète de gestion de dossiers médicaux intégrant **4 modules d'IA** :  
+- Prédiction du risque patient  
+- Analyse épidémiologique par âge et localisation  
+- Détection de foyers de maladies  
+- Prévision de tendances sur 30 jours  
+**Stack :** Django 5.1.4, Scikit-learn, PostgreSQL, Chart.js  
+**Impact :** Aide à la décision médicale et recherche en santé publique  
+🔗 [Voir le projet](https://github.com/wenrid/Systeme-de-Suivi-Medical-Intelligent)
+
+---
+
 ### 🖼️ Image Captioning — Transfer Learning vs From Scratch
 **Analyse comparative d'architectures de génération automatique de descriptions d'images**
 
@@ -91,19 +103,6 @@ de la RDC et modernisation de l'administration de l'état civil
 
 🔗 [Voir le projet](https://github.com/wenrid/ocr-actes-naissance-rdc)
 
----
-
-### 🏥 Système de Suivi Médical Intelligent  
-Plateforme complète de gestion de dossiers médicaux intégrant **4 modules d’IA** :  
-- Prédiction du risque patient  
-- Analyse épidémiologique par âge et localisation  
-- Détection de foyers de maladies  
-- Prévision de tendances sur 30 jours  
-
-**Stack :** Django 5.1.4, TensorFlow, PostgreSQL, Chart.js  
-**Impact :** Aide à la décision médicale et recherche en santé publique  
-
-🔗 [Voir le projet](https://github.com/wenrid/Systeme-de-Suivi-Medical-Intelligent)
 
 ---
 
