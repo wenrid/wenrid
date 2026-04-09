@@ -133,13 +133,15 @@ pour la visualisation interactive d’algorithmes de recherche de chemin optimal
 
 ---
 
-## 🧠 J’apprends actuellement
+## 🧠 J'apprends actuellement
 
 - 🚀 Optimisation et déploiement de modèles CNN pour périphériques edge  
-- 🧩 Intégration d’agents conversationnels et chaînes d’IA avec **LangChain** et **LLMs**  
+- 🧩 Intégration d'agents conversationnels et chaînes d'IA avec **LangChain** et **LLMs**  
 - ☁️ MLOps, Docker et déploiement sur le cloud  
 - 📈 Analyse avancée des données et visualisation interactive  
-- 🧠 Renforcement de mes compétences en cybersécurité appliquée à l’IA et aux systèmes web
+- 🏥 Génération de données médicales synthétiques avec **TimeGAN** et modèles de diffusion conditionnels appliqués aux **séries temporelles**
+- 📊 Évaluation de la fidélité des données générées avec **MMD** et **DTW**
+- 🧠 Renforcement de mes compétences en cybersécurité appliquée à l'IA et aux systèmes web
 
 
 ## 🛠️ Compétences techniques
@@ -158,6 +160,8 @@ pour la visualisation interactive d’algorithmes de recherche de chemin optimal
 ![ResNet-50](https://img.shields.io/badge/-ResNet--50-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CNN](https://img.shields.io/badge/-CNN-007FFF?style=flat-square&logoColor=white)
 ![LSTM](https://img.shields.io/badge/-LSTM-8B5CF6?style=flat-square&logoColor=white)
+![TimeGAN](https://img.shields.io/badge/-TimeGAN-D85A30?style=flat-square&logoColor=white)
+![GAN](https://img.shields.io/badge/-GAN-993C1D?style=flat-square&logoColor=white)
 ![Attention Mechanism](https://img.shields.io/badge/-Attention%20Mechanism-059669?style=flat-square&logoColor=white)
 ![Grad-CAM](https://img.shields.io/badge/-Grad--CAM-D97706?style=flat-square&logoColor=white)
 
@@ -173,6 +177,9 @@ pour la visualisation interactive d’algorithmes de recherche de chemin optimal
 ![t-SNE](https://img.shields.io/badge/-t--SNE-005571?style=flat-square&logoColor=white)
 ![BLEU Score](https://img.shields.io/badge/-BLEU%20Score-059669?style=flat-square&logoColor=white)
 ![HOG](https://img.shields.io/badge/-HOG-4B8BBE?style=flat-square&logoColor=white)
+![Séries Temporelles](https://img.shields.io/badge/-S%C3%A9ries%20Temporelles-185FA5?style=flat-square&logoColor=white)
+![MMD](https://img.shields.io/badge/-MMD-0F6E56?style=flat-square&logoColor=white)
+![DTW](https://img.shields.io/badge/-DTW-0F6E56?style=flat-square&logoColor=white)
 
 ### 💻 Développement & Bases de Données
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
